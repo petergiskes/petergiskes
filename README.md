@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @petergiskes
-- 👀 I’m interested in IoT, Data Science and publishing Government Source Code
+- 👀 I’m interested in Architecture, IoT, Data Science and publishing Government Source Code
 - 🌱 I’m currently removing the rust off my 20th century programming skills
